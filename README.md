@@ -1,2 +1,2 @@
-# akcssc
-akcssc 2k16 website source
+# AKCSSC
+AKCSSC 2k16 event website.
